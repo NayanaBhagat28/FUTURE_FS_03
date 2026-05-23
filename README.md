@@ -7,6 +7,7 @@ A modern, responsive, and visually appealing café website designed to showcase 
 ## 🌐 Live Demo
 
 **Live Website:** https://future-fs-03-alpha-one.vercel.app/
+
 **GitHub Repository:** https://github.com/NayanaBhagat28/FUTURE_FS_03
 
 ---
